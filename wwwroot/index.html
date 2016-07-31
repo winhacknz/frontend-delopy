@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <base href="/">
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>Find Your Place</title>
+
+    <!-- 1. Load css-->
+    <link href="libs/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet"/>
+    <link href="/libs/css/Main.min.css" rel="stylesheet" />
+    
+    <!-- 2. Load libraries -->
+    <script src="libs/jquery/dist/jquery.min.js"></script>
+    <script src="libs/es6-shim/es6-shim.min.js"></script>
+    <script src="libs/zone.js/dist/zone.js"></script>
+    <script src="libs/reflect-metadata/Reflect.js"></script>
+    <script src="libs/systemjs/dist/system.src.js"></script>
+    <script src="libs/bootstrap/dist/js/bootstrap.js"></script>
+
+    <!-- 3. Configure SystemJS -->
+    <script src="app/systemjs.config.js"></script>
+    <script>
+        System.import('app/main')
+            .then(null, console.error.bind(console));
+    </script>
+
+</head>
+<body>
+    <my-app>
+        <div class="home" id="homePic">
+            <div id="overlay">
+        </div>
+    </div>
+</my-app>
+</body>
+</html>

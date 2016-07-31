@@ -1,0 +1,107 @@
+[
+  {
+    "id": 1,
+    "Regional Council": "Northland",
+    "Life_sat": 0.876033058,
+    "House_sat": 0.900826446,
+    "House_prob": 0.694214876
+  },
+  {
+    "id": 2,
+    "Regional Council": "Auckland",
+    "Life_sat": 0.871816638,
+    "House_sat": 0.85483871,
+    "House_prob": 0.662139219
+  },
+  {
+    "id": 3,
+    "Regional Council": "Waikato",
+    "Life_sat": 0.847352025,
+    "House_sat": 0.862928349,
+    "House_prob": 0.644859813
+  },
+  {
+    "id": 4,
+    "Regional Council": "Bay of Plenty",
+    "Life_sat": 0.864485981,
+    "House_sat": 0.897196262,
+    "House_prob": 0.719626168
+  },
+  {
+    "id": 5,
+    "Regional Council": "Gisborne",
+    "Life_sat": 0.828571429,
+    "House_sat": 0.885714286,
+    "House_prob": 0.657142857
+  },
+  {
+    "id": 6,
+    "Regional Council": "Hawke's Bay",
+    "Life_sat": 0.898305085,
+    "House_sat": 0.898305085,
+    "House_prob": 0.686440678
+  },
+  {
+    "id": 7,
+    "Regional Council": "Taranaki",
+    "Life_sat": 0.847058824,
+    "House_sat": 0.858823529,
+    "House_prob": 0.647058824
+  },
+  {
+    "id": 8,
+    "Regional Council": "Manawatu-Wanganui",
+    "Life_sat": 0.844444444,
+    "House_sat": 0.85,
+    "House_prob": 0.677777778
+  },
+  {
+    "id": 9,
+    "Regional Council": "Wellington",
+    "Life_sat": 0.881748072,
+    "House_sat": 0.871465296,
+    "House_prob": 0.652956298
+  },
+  {
+    "id": 10,
+    "Regional Council": "West Coast",
+    "Life_sat": 0.846153846,
+    "House_sat": 0.961538462,
+    "House_prob": 0.730769231
+  },
+  {
+    "id": 11,
+    "Regional Council": "Canterbury",
+    "Life_sat": 0.860045147,
+    "House_sat": 0.835214447,
+    "House_prob": 0.663656885
+  },
+  {
+    "id": 12,
+    "Regional Council": "Otago",
+    "Life_sat": 0.864705882,
+    "House_sat": 0.829411765,
+    "House_prob": 0.588235294
+  },
+  {
+    "id": 13,
+    "Regional Council": "Southland",
+    "Life_sat": 0.917808219,
+    "House_sat": 0.917808219,
+    "House_prob": 0.780821918
+  },
+  {
+    "id": 14,
+    "Regional Council": "Tasman/Nelson",
+    "Life_sat": 0.840909091,
+    "House_sat": 0.909090909,
+    "House_prob": 0.693181818
+  },
+  {
+    "id": 15,
+    "Regional Council": "Marlborough",
+    "Life_sat": 0.916666667,
+    "House_sat": 0.916666667,
+    "House_prob": 0.666666667
+  }
+]

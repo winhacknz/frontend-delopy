@@ -1,0 +1,15 @@
+<div class="container">
+    <div id="blueScreen" class="safety-wrapper"></div>
+    <h1>Safety map.</h1>
+    
+    <div class="row">
+        <div class="col-lg-2 col-lg-offset-5">
+            <ul class="heroes">
+              <li *ngFor="let crime of crimeData"
+                (click)="onSelect(crime)">
+                <span class="">{{crime.id}}</span> {{crime.incidentRate}}
+              </li>
+            </ul>
+        </div>
+    </div>
+</div>

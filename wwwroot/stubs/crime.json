@@ -1,0 +1,77 @@
+[
+  {
+    "id": 1,
+    "RegionalCouncil": "Northland",
+    "incidentRate": 0.876033058
+  },
+  {
+    "id": 2,
+    "RegionalCouncil": "Auckland",
+    "incidentRate": 0.871816638
+  },
+  {
+    "id": 3,
+    "RegionalCouncil": "Waikato",
+    "incidentRate": 0.847352025
+  },
+  {
+    "id": 4,
+    "RegionalCouncil": "Bay of Plenty",
+    "incidentRate": 0.864485981
+  },
+  {
+    "id": 5,
+    "RegionalCouncil": "Gisborne",
+    "incidentRate": 0.828571429
+  },
+  {
+    "id": 6,
+    "RegionalCouncil": "Hawke's Bay",
+    "incidentRate": 0.898305085
+  },
+  {
+    "id": 7,
+    "RegionalCouncil": "Taranaki",
+    "incidentRate": 0.847058824
+  },
+  {
+    "id": 8,
+    "RegionalCouncil": "Manawatu-Wanganui",
+    "incidentRate": 0.844444444
+  },
+  {
+    "id": 9,
+    "RegionalCouncil": "Wellington",
+    "incidentRate": 0.881748072
+  },
+  {
+    "id": 10,
+    "RegionalCouncil": "West Coast",
+    "incidentRate": 0.846153846
+  },
+  {
+    "id": 11,
+    "RegionalCouncil": "Canterbury",
+    "incidentRate": 0.860045147
+  },
+  {
+    "id": 12,
+    "RegionalCouncil": "Otago",
+    "incidentRate": 0.864705882
+  },
+  {
+    "id": 13,
+    "RegionalCouncil": "Southland",
+    "incidentRate": 0.917808219
+  },
+  {
+    "id": 14,
+    "RegionalCouncil": "Tasman/Nelson",
+    "incidentRate": 0.840909091
+  },
+  {
+    "id": 15,
+    "RegionalCouncil": "Marlborough",
+    "incidentRate": 0.916666667
+  }
+]

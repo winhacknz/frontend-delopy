@@ -1,0 +1,31 @@
+<div id="blueScreen"></div>
+<div class="container">
+    <section id="formSection">
+        <div id="form">
+            <h3>We just need a few things...</h3>
+            <h4>On a scale from 1 to 10:</h4>
+        </div>
+        
+        <div>
+            <div class="form-group">
+                <label for="safetyPref">How important is safety to you?</label>
+                <input type="text" class="form-control" id="safetyPref" placeholder="">
+            </div>
+            <div class="form-group">
+                <label for="affordabilityPref">How important is affordability to you?</label>
+                <input type="text" class="form-control" id="affordabilityPref" placeholder="">
+            </div>
+            <div class="form-group">
+                <label for="transportPref">How important is access to public transport?</label>
+                <input type="text" class="form-control" id="transportPref" placeholder="">
+            </div>
+            <div class="row">
+                <div class="col-md-4">
+                    <button class="btn btn-default" id="formButton" (click)="goToResults()">Let's go!</button>
+                </div>
+            </div>      
+        </div>
+    </section>
+    
+</div>
+
